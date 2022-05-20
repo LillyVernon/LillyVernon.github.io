@@ -127,7 +127,7 @@ p {
   font-size: 15px;
   line-height: 30px;
   font-weight: 300;
-  color: #afafaf;
+  color: #4b4949;
 }
 
 img {
@@ -210,7 +210,7 @@ body {
   color: #4b8ef1 !important;
   text-transform: capitalize;
   font-size: 15px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   border-radius: 23px;
   font-weight: 500 !important;
   letter-spacing: 0.3px !important;
