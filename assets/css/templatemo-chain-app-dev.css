@@ -41,6 +41,8 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+
+
 /* clear fix */
 .grid:after {
   content: '';
@@ -1637,9 +1639,6 @@ footer #search button:hover {
   margin-bottom: 30px;
 }
 
-.footer-widget p {
-  margin-bottom: 15px;
-}
 
 .footer-widget p,
 .footer-widget p a {
@@ -2214,4 +2213,12 @@ responsive
   form#contact {
     padding: 30px;
   }
+}
+p{
+  font-size: 18px;
+}
+
+.footer-widget p {
+  font-size: 15px;
+  margin-bottom: 15px;
 }
