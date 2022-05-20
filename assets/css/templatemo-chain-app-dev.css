@@ -203,6 +203,7 @@ body {
 }
 
 .white-button a {
+  box-shadow: 1px 1px 10px #0050c7;
   display: inline-block !important;
   padding: 10px 20px !important;
   color: #4b8ef1 !important;
